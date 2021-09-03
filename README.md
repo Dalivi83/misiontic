@@ -1,0 +1,2 @@
+# misiontic
+repositorio primeros ejercicios
